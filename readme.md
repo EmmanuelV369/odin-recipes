@@ -1,0 +1,1 @@
+Today, I linked the parent directory of this file to my local machine from github. Next, im going to do and exercise from the Odin Project about recipes or some shit. I will make it out of this regardless of how i feel. -solidsix
